@@ -2,4 +2,4 @@
 **Name:** Ivan Patrick Frondozo
 
 ## Screenshot of Output
-![Screenshot of Output](image/Screenshot-Output.png)
+![Output Screenshot](images/Screenshot-Output.png)
